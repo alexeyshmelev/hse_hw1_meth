@@ -27,3 +27,17 @@
 
 ### c)
 - [X] Коллинг метилирования
+
+### d)
+M-bias plot для разных типов файлов. Исходя из документации Bismark, данный график показывает пропорцию метилирования для каждой возможной позиции в прочтении.
+* Файл SRR5836473
+
+![3](https://user-images.githubusercontent.com/60858323/155001804-b6aaccfa-23d7-4449-8c95-6dad15a262f8.png)
+
+* Файл SRR5836475
+
+![5](https://user-images.githubusercontent.com/60858323/155001982-c9abfa76-d882-4669-b21e-60edc7baba38.png)
+
+* Файл SRR3824222
+
+![2](https://user-images.githubusercontent.com/60858323/155002014-06209351-bf58-4a27-b324-4b04c14843fa.png)
